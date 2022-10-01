@@ -1,3 +1,6 @@
+![Profile View](https://komarev.com/ghpvc/?username=vivekbtu&color=orange&style=flat)
+
+
 - 👋 Hi, I’m Vivek Gupta I'm passionate Full-Stack Web Developer
 
 - 👨‍💻 Most of my projects are available on [GitHub](https://github.com/vivekbtu).
@@ -8,7 +11,7 @@
  
 - 📫 How to reach me **vivekbtu30@gmail.com** [Email](https://mail.google.com/mail/u/0/#inbox?compose=new) 
 
-![Profile View](https://komarev.com/ghpvc/?username=vivekbtu&color=orange&style=flat)
+
 
 <!---
 vivekbtu/vivekbtu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
