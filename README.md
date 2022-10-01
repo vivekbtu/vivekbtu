@@ -7,6 +7,8 @@
 - 💬 Ping me about Web Development, Lets grow together.
 - 
 - 📫 How to reach me **vivekbtu30@gmail.com** [Email](https://mail.google.com/mail/u/0/#inbox?compose=new) 
+-
+-![Profile View](https://rushter.com/counter.svg)
 
 <!---
 vivekbtu/vivekbtu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
