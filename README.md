@@ -8,7 +8,7 @@
 - 
 - 📫 How to reach me **vivekbtu30@gmail.com** [Email](https://mail.google.com/mail/u/0/#inbox?compose=new) 
 -
--![Profile View](https://rushter.com/counter.svg)
+![Profile View](https://komarev.com/ghpvc/?username=vivekbtu&color=orange&style=flat)
 
 <!---
 vivekbtu/vivekbtu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
