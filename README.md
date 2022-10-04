@@ -1,7 +1,7 @@
 ![Profile View](https://komarev.com/ghpvc/?username=vivekbtu&color=orange&style=flat)
 
 
-- 👋 Hi, I’m Vivek Gupta I'm passionate Full-Stack Web Developer
+- 👋 Hi, I’m Vivek Gupta and a passionate Full-Stack Web Developer
 
 - 👨‍💻 Most of my projects are available on [GitHub](https://github.com/vivekbtu).
  
