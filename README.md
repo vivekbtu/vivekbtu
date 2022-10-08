@@ -42,7 +42,7 @@
  
 - 💬 Ping me about Web Development, Lets grow together.
  
-- 📫 How to reach me **vivekbtu30@gmail.com** [Email](https://mail.google.com/mail/u/0/#inbox?compose=new) 
+- 📫 How to reach me **bittubieber19@gmail.com** [Email](https://mail.google.com/mail/u/0/#inbox?compose=new) 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
