@@ -45,7 +45,7 @@
  
 - 📫 How to reach me **bittubieber19@gmail.com** [Email](https://mail.google.com/mail/u/0/#inbox?compose=new) 
 
--  Check out Vivek's Web Resume [Here](https://drive.google.com/file/d/1b9mWpCnavIn72uX06Ti2PPeGHXWO4nZx/view?usp=sharing).
+- 📙 Check out Vivek's Web Resume [Here](https://drive.google.com/file/d/1b9mWpCnavIn72uX06Ti2PPeGHXWO4nZx/view?usp=sharing).
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -60,6 +60,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
+
+
+---
+### : My Trophy :
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=vivekbtu&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
