@@ -44,6 +44,8 @@
 - 💬 Ping me about Web Development, Lets grow together.
  
 - 📫 How to reach me **bittubieber19@gmail.com** [Email](https://mail.google.com/mail/u/0/#inbox?compose=new) 
+
+-  Check out Vivek's Web Resume [Here](https://drive.google.com/file/d/1b9mWpCnavIn72uX06Ti2PPeGHXWO4nZx/view?usp=sharing).
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
