@@ -29,7 +29,7 @@
 
 <h3 align="left", style="margin-bottom:10px">About me</h3>
 
-<img align="right" alt="coding image" width="47%" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+<img align="right" alt="coding image" width="44%" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 
 
 
