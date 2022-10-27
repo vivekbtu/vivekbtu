@@ -27,9 +27,11 @@
 </h1>
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<h3 align="left", style="margin-bottom:10px">About me</h3>
+
+<img align="right" alt="coding image" width="43.5%" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+
+
 
 ---
 
