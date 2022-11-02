@@ -73,9 +73,15 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vivekbtu&theme=dark&background=000000)](https://git.io/streak-stats)
+<b>My GitHub Stats</b>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekbtu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="http://www.github.com/vivekbtu"><img src="https://github-readme-stats.vercel.app/api?username=vivekbtu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="gautam6023's GitHub stats" /></a>
+
+<a href="http://www.github.com/vivekbtu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekbtu&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/vivekbtu"><img src="https://activity-graph.herokuapp.com/graph?username=vivekbtu&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/vivekbtu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekbtu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ---
 
