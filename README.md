@@ -38,7 +38,7 @@
 
 - 👋 Hi, I’m Vivek Gupta and a passionate Full-Stack Web Developer
 
-- 👨‍💻 Most of my projects are available on [GitHub](https://github.com/vivekbtu).
+- 👨‍💻 Most of my projects are available on [My Portfolio](https://vivekbtu.github.io/).
  
 - 🌱 I’m currently learning **Full-Stack Web Development**
  
