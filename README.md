@@ -89,7 +89,7 @@
 
 ---
 
-### :writing_hand: Blog Posts :
+<!-- ### :writing_hand: Blog Posts : -->
 
 <!---
 vivekbtu/vivekbtu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
