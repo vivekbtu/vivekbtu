@@ -82,7 +82,20 @@
 
 <!-- GIT HUB STATS  -->
 
-<a href="http://www.github.com/vivekbtu"><img src="https://github-readme-stats.vercel.app/api?username=vivekbtu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="gautam6023's GitHub stats" /></a>
+
+<!-- <p align="center" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monumarquis&layout=compact&show_icons=true&theme=radical" alt="monumarquis" height="159" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=monumarquis&show_icons=true&theme=radical" alt="monumarquis" height="159" />
+</p>
+
+----
+----
+
+ -->
+
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekbtu&layout=compact&show_icons=true&theme=radical" alt="Most Language" height="159" />
+</a>
 
 <a href="http://www.github.com/vivekbtu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekbtu&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
@@ -94,7 +107,9 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vivekbtu&point=f007d8&line=f0cd07&area_color=310938&theme=react-dark" alt="GitHub Commits Graph" />
 </a>
 
-<a href="https://github.com/vivekbtu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekbtu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekbtu&show_icons=true&theme=radical" alt="Git stats" height="159" />
+</a>
 
 ---
 
