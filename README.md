@@ -107,9 +107,9 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vivekbtu&point=f007d8&line=f0cd07&area_color=310938&theme=react-dark" alt="GitHub Commits Graph" />
 </a>
 
-<a>
+<!-- <a>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekbtu&show_icons=true&theme=radical" alt="Git stats" height="159" />
-</a>
+</a> -->
 
 ---
 
