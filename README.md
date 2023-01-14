@@ -26,8 +26,10 @@
 </h1>
 
 
-<h3 align="left", style="margin-bottom:10px">About me</h3>
-
+<h2 align="left", style="margin-bottom:10px">About me</h2>
+<h3>
+A passionate Full-Stack Web Developer skilled in MERN stack who loves to code and always ready to learn new tech stuff.
+</h3>
 <img align="right" alt="coding image" width="45%" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 
 
