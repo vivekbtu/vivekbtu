@@ -78,11 +78,11 @@ A passionate Full-Stack Web Developer skilled in MERN stack who loves to code an
 
 ---
 
-### : My Trophy :
+<!-- ### : My Trophy :
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=vivekbtu&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+--- -->
 
 ### :fire: My Stats :
 
