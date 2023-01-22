@@ -91,15 +91,10 @@ A passionate Full-Stack Web Developer skilled in MERN stack who loves to code an
 <!-- GIT HUB STATS  -->
 
 
-<!-- <p align="center" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monumarquis&layout=compact&show_icons=true&theme=radical" alt="monumarquis" height="159" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=monumarquis&show_icons=true&theme=radical" alt="monumarquis" height="159" />
-</p>
+<!-- ----
+---- -->
 
-----
-----
 
- -->
  
 
 <!-- <a>
@@ -117,9 +112,14 @@ A passionate Full-Stack Web Developer skilled in MERN stack who loves to code an
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vivekbtu&point=f007d8&line=f0cd07&area_color=310938&theme=react-dark" alt="GitHub Commits Graph" />
 </a>
 
-<a>
+<!-- <a> Language tool
    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vivekbtu&theme=radical&hide_border=true&include_all_commits=false&count_private=true" alt="Git stats" height="159" />
-</a>
+</a> -->
+
+<p align="center" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekbtu&layout=compact&show_icons=true&theme=radical" alt="vivekbtu" height="159" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekbtu&show_icons=true&theme=radical" alt="vivekbtu" height="159" />
+</p>
 
 
 ---
