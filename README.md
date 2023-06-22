@@ -109,10 +109,10 @@ A passionate Full-Stack Web Developer skilled in MERN stack who loves to code an
 <!-- <a href="http://www.github.com/vivekbtu"><img src="https://activity-graph.herokuapp.com/graph?username=vivekbtu&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 <!-- Git Graph  -->
-
-<a href="http://www.github.com/vivekbtu">
+<!-- Do Uncomment this part  -->
+<!-- <a href="http://www.github.com/vivekbtu">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vivekbtu&point=f007d8&line=f0cd07&area_color=310938&theme=react-dark" alt="GitHub Commits Graph" />
-</a>
+</a> -->
 
 <!-- <a> Language tool
    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vivekbtu&theme=radical&hide_border=true&include_all_commits=false&count_private=true" alt="Git stats" height="159" />
